@@ -1,12 +1,12 @@
 <div align="center">
+  
+<img src="./assets/studyflow-logo.png" width="50%" alt="StudyFlow Logo">
 
-<img src="./assets/studyflow-logo.png" width="60%" alt="Tela inicial do StudyFlow">
+# StudyFlow
 
-# 📚 StudyFlow
+### Organização acadêmica, produtividade e colaboração entre colegas em um só lugar.
 
-### Organização acadêmica e produtividade em um só lugar.
-
-Uma plataforma desenvolvida para facilitar o acompanhamento da vida acadêmica, centralizando informações, organização e produtividade em uma experiência simples e intuitiva.
+O **StudyFlow** é uma plataforma desenvolvida para ajudar estudantes a organizarem sua rotina acadêmica de forma mais prática, visual e colaborativa.
 
 <br>
 
@@ -18,28 +18,29 @@ Uma plataforma desenvolvida para facilitar o acompanhamento da vida acadêmica, 
 
 ---
 
-## 💡 Sobre o projeto
+## Sobre o projeto
 
-O **StudyFlow** nasceu com o objetivo de tornar a organização acadêmica mais simples e centralizada.
+O **StudyFlow** foi criado com o objetivo de facilitar a organização acadêmica e aumentar a produtividade dos estudantes.
 
-Em vez de depender de diferentes ferramentas para acompanhar atividades, informações e produtividade, a proposta é reunir os principais recursos em uma única plataforma, com foco em uma experiência prática e agradável para estudantes.
+Mais do que uma ferramenta individual, o projeto também funciona como um **ambiente de colaboração entre colegas**, permitindo compartilhar trabalhos, organizar informações da turma e ajudar outros alunos no acompanhamento das atividades e compromissos escolares.
 
-O projeto também funciona como um ambiente de evolução dos meus conhecimentos em **desenvolvimento de software, interfaces, bancos de dados e construção de produtos digitais**.
-
----
-
-## ✨ Principais recursos
-
-- 📚 Organização acadêmica
-- ✅ Gerenciamento de atividades e tarefas
-- 📅 Acompanhamento de compromissos e prazos
-- 📊 Visualização de informações acadêmicas
-- 🎯 Recursos voltados à produtividade
-- 💻 Interface responsiva e intuitiva
+A proposta é reunir, em um só lugar, recursos que normalmente ficam espalhados em diferentes ferramentas, tornando a experiência mais prática, intuitiva e eficiente.
 
 ---
 
-## 🖼️ Interface
+## Principais funcionalidades
+
+- 📊 **Dashboard acadêmico** para visualização geral das informações
+- ✅ **Organização de tarefas e trabalhos**
+- 🗂️ **Quadro no estilo Trello** para acompanhamento visual das atividades
+- 📅 **Calendário** para compromissos, prazos e planejamento
+- 📚 **Área de matérias** para centralização das disciplinas
+- 🤝 **Ambiente colaborativo** para compartilhamento de trabalhos e apoio entre colegas
+- 🎯 Recursos voltados à **produtividade e organização acadêmica**
+
+---
+
+## Interface do sistema
 
 <table>
 <tr>
@@ -48,19 +49,19 @@ O projeto também funciona como um ambiente de evolução dos meus conhecimentos
 
 ### Dashboard
 
-<img src="./assets/studyflow-dashboard.png" width="100%">
+<img src="./assets/dashboard.png" width="100%" alt="Dashboard do StudyFlow">
 
-Visão geral das principais informações acadêmicas.
+Visão geral das principais informações acadêmicas e organização do sistema.
 
 </td>
 
 <td width="50%" align="center">
 
-### Organização
+### Quadro
 
-<img src="./assets/studyflow-organizacao.png" width="100%">
+<img src="./assets/trello.png" width="100%" alt="Quadro do StudyFlow">
 
-Ferramentas para acompanhar atividades e organizar a rotina.
+Organização visual de tarefas, trabalhos e andamento das atividades.
 
 </td>
 
@@ -70,21 +71,21 @@ Ferramentas para acompanhar atividades e organizar a rotina.
 
 <td width="50%" align="center">
 
-### Recursos
+### Calendário
 
-<img src="./assets/studyflow-recursos.png" width="100%">
+<img src="./assets/calendario.png" width="100%" alt="Calendário do StudyFlow">
 
-Funcionalidades desenvolvidas para melhorar a produtividade.
+Planejamento de compromissos, datas importantes e prazos acadêmicos.
 
 </td>
 
 <td width="50%" align="center">
 
-### Responsividade
+### Matérias
 
-<img src="./assets/studyflow-mobile.png" width="100%">
+<img src="./assets/materias.png" width="100%" alt="Área de matérias do StudyFlow">
 
-Experiência adaptada para diferentes tamanhos de tela.
+Espaço dedicado à organização das disciplinas e acompanhamento acadêmico.
 
 </td>
 
@@ -93,17 +94,30 @@ Experiência adaptada para diferentes tamanhos de tela.
 
 ---
 
-## 🛠️ Tecnologias
+## Objetivo
+
+O principal objetivo do **StudyFlow** é oferecer uma plataforma que ajude estudantes a:
+
+- se organizarem melhor;
+- acompanharem tarefas e prazos;
+- centralizarem informações acadêmicas;
+- colaborarem com colegas;
+- compartilharem trabalhos;
+- aumentarem a produtividade no dia a dia escolar.
+
+---
+
+## Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,supabase" />
+<img src="https://skillicons.dev/icons?i=html,css,js,supabase" />
 
 </div>
 
 ---
 
-## 🚀 Acesse o projeto
+## Acesse o projeto
 
 O StudyFlow está disponível online:
 
