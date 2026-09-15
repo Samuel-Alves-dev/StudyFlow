@@ -59,7 +59,7 @@ Visão geral das principais informações acadêmicas e organização do sistema
 
 ### Quadro
 
-<img src="./assets/trello.png" width="100%" alt="Quadro do StudyFlow">
+<img src="./assets/quadro.png" width="100%" alt="Quadro do StudyFlow">
 
 Organização visual de tarefas, trabalhos e andamento das atividades.
 
