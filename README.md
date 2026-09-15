@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="./assets/studyflow-logo.png" width="50%" alt="StudyFlow Logo">
+<img src="./assets/studyflow-logo.png" width="25%" alt="StudyFlow Logo">
 
 # StudyFlow
 
