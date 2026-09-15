@@ -57,7 +57,7 @@ Visão geral das principais informações acadêmicas e organização do sistema
 
 <td width="50%" align="center">
 
-### Quadro
+### Quadro de Tarefas
 
 <img src="./assets/quadro.png" width="100%" alt="Quadro do StudyFlow">
 
@@ -96,14 +96,7 @@ Espaço dedicado à organização das disciplinas e acompanhamento acadêmico.
 
 ## Objetivo
 
-O principal objetivo do **StudyFlow** é oferecer uma plataforma que ajude estudantes a:
-
-- se organizarem melhor;
-- acompanharem tarefas e prazos;
-- centralizarem informações acadêmicas;
-- colaborarem com colegas;
-- compartilharem trabalhos;
-- aumentarem a produtividade no dia a dia escolar.
+Centralizar organização, produtividade e colaboração acadêmica em uma única plataforma, facilitando o acompanhamento de tarefas, prazos, matérias e trabalhos compartilhados entre colegas.
 
 ---
 
@@ -111,18 +104,6 @@ O principal objetivo do **StudyFlow** é oferecer uma plataforma que ajude estud
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,supabase" />
-
-</div>
-
----
-
-## Acesse o projeto
-
-O StudyFlow está disponível online:
-
-<div align="center">
-
-### [🌐 Acessar StudyFlow](https://studyflow-br.lovable.app)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,supabase" />
 
 </div>
